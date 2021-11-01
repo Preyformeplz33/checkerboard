@@ -1,0 +1,21 @@
+h1 {
+    color: rgb(179, 135, 135);
+}
+
+.square {
+    height: 30px;
+    width: 30px;
+    background-color: seagreen;
+}
+
+.row {
+    display: flex;
+}
+
+.square0 {
+    background-color: steelblue;
+}
+
+.square1 {
+    background-color: purple;
+}
